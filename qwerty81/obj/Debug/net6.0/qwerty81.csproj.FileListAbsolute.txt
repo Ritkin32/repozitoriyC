@@ -1,0 +1,15 @@
+C:\repozit\asdfgh\qwerty\qwerty81\bin\Debug\net6.0\qwerty81.exe
+C:\repozit\asdfgh\qwerty\qwerty81\bin\Debug\net6.0\qwerty81.deps.json
+C:\repozit\asdfgh\qwerty\qwerty81\bin\Debug\net6.0\qwerty81.runtimeconfig.json
+C:\repozit\asdfgh\qwerty\qwerty81\bin\Debug\net6.0\qwerty81.dll
+C:\repozit\asdfgh\qwerty\qwerty81\bin\Debug\net6.0\qwerty81.pdb
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.csproj.AssemblyReference.cache
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.AssemblyInfoInputs.cache
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.AssemblyInfo.cs
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.csproj.CoreCompileInputs.cache
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.dll
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\refint\qwerty81.dll
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.pdb
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\qwerty81.genruntimeconfig.cache
+C:\repozit\asdfgh\qwerty\qwerty81\obj\Debug\net6.0\ref\qwerty81.dll
